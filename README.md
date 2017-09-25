@@ -1,5 +1,8 @@
-#fsnotify
-基于fsnotify的文件事件通知
+# fsnotify-tool
+
+### 项目基于fsnotify的文件事件通知
+
+> 通知事件有 write,create,rename,remove
 
 ```json
 
